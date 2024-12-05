@@ -1,0 +1,8 @@
+Name,gender,age,address,Flight,From,To,Departure Date,Departure Time,seat,payment
+yashit,m,19,delhi,JET456, Mumbai, Bangalore, 21-04-2024, 12:59,2,business,7011@paytm
+utkarsh,M,18,delhi,110034,FLI123, Delhi, Udaipur, 20-04-2024, 07:59,1,business,utkarsh@gpay
+somin,M,18,delhi,AIR789,Ahmedabad,Kolkata,22-04-2024,22:59,1,business,somin@paytm
+akash,M,21,mumbai,JET456,Mumbai,Bangalore,21-04-2024,12:59,3,economy,akash@upi
+rachel zane,F,27,Chennai,FLI246,Chennai,Hyderabad,23-04-2024,09:30,2,Economy,rachel@gpay
+harvey,M,34,"chennai,village rampur",JET478,Chennai,Hyderabad,07-05-2024,08:30,3,Business,harvey@00paytm
+Ujjwal,M,19,"65 Sharda Niketan, Pitampura",AIR963,Delhi,Bangalore,27-04-2024,10:15,2,Economy,1234@abcd
